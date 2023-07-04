@@ -1,19 +1,18 @@
 # CS6375_assignment2: https://github.com/SparrowChang/CS6375_assignment2
 
-All required files into a single ZIP archive: for submission.
+In a ZIP archive. Here are the files and their descriptions:
 
-0. 'README.MD'
+0. README.md: This file contains any necessary instructions or information about the project.
 
-1. 'nn_final.ipynb': 
-    Colab https://colab.research.google.com/drive/1CzuFw9b8j7wnxmlzUt1d_oML2zaxlBOG?usp=sharing. Use Python 3.10.
-    Dataset from UCI ML Repository and url='https://raw.githubusercontent.com/SparrowChang/CS6375_assignment1/main/auto%2Bmpg/auto-mpg.data. The train/test ratio 80/20. 
-    Through Colab interface (with public read permission) -> Run all, it will evaluate training and test MSE under 3 activations (sigmoid, tanh, relu). For hyperparameters: epochs: [100, 500, 1000], learning rate: [0.001, 0.01, 0.1, 0.5]. Further generate 'path_to_log_file.txt', 'relu.png','sigmoid.png', 'tanh.png'. 
+1. nn_final.ipynb: 
+    This Colab notebook can be accessed at https://colab.research.google.com/drive/1CzuFw9b8j7wnxmlzUt1d_oML2zaxlBOG?usp=sharing. 
+    It is designed to be run with Python 3.10. The notebook uses a dataset from the UCI ML Repository, obtained from the URL: https://raw.githubusercontent.com/SparrowChang/CS6375_assignment1/main/auto%2Bmpg/auto-mpg.data. The training and test dataset is split with a ratio of 80:20. 
+    Running all cells in the Colab interface will evaluate the training and test Mean Squared Error (MSE) using three different activation functions (sigmoid, tanh, relu).
+    The notebook also explores different hyperparameters: epochs (100, 500, 1000) and learning rates (0.001, 0.01, 0.1, 0.5). The following files will be generated within the notebook:
+        - path_to_log_file.txt: This file contains the best hyperparameters and corresponding MSE for each activation function.
+        - relu.png, sigmoid.png, tanh.png: These files are plots of the training and test MSE for each activation function, using the best learning rate found.
 
-    - 'path_to_log_file.txt': 3 different activation (sigmoid, tanh, relu) combined with hyperparamters(learning rate and epochs), final we would get each activation the best parameter and its best MSE. There is without overfitting, the training error isn't significantly lower than the testing error. 
-    
-    - 'relu.png','sigmoid.png', 'tanh.png': each one is under same activation and best leraning rate, through the epochs train and test MSE plot.
-
-2. 'CS6375 Assignment2_230704_final.pdf': report results in a tabular format with columns indicating the parameters for both train, test MSE for different combination of paramters and our conclusion is 
+2. CS6375 Assignment2_230704_final.pdf: This file is a report presenting the results in a tabular format. The table includes columns for the parameters used, as well as the train and test MSE for different combinations of parameters. The report also includes conclusions based on the results.
 
 
 
