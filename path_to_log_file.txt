@@ -1,86 +1,86 @@
-sigmoid Learning Rate: 0.001, Num Epochs: 100, Train Loss: 456.67, Train Accuracy: 19.42, Test Loss: 423.55, Test Accuracy: 18.90
+sigmoid Learning Rate: 0.001, Num Epochs: 100, Train Loss: 425.61, Train Accuracy: 19.10, Test Loss: 387.10, Test Accuracy: 18.38
 -----------------
-sigmoid Learning Rate: 0.001, Num Epochs: 500, Train Loss: 344.42, Train Accuracy: 16.66, Test Loss: 302.79, Test Accuracy: 15.75
+sigmoid Learning Rate: 0.001, Num Epochs: 500, Train Loss: 355.12, Train Accuracy: 17.36, Test Loss: 318.32, Test Accuracy: 16.60
 -----------------
-sigmoid Learning Rate: 0.001, Num Epochs: 1000, Train Loss: 337.69, Train Accuracy: 16.78, Test Loss: 299.85, Test Accuracy: 15.99
+sigmoid Learning Rate: 0.001, Num Epochs: 1000, Train Loss: 331.93, Train Accuracy: 16.20, Test Loss: 301.85, Test Accuracy: 15.65
 -----------------
-sigmoid Learning Rate: 0.01, Num Epochs: 100, Train Loss: 339.18, Train Accuracy: 16.75, Test Loss: 304.71, Test Accuracy: 16.06
+sigmoid Learning Rate: 0.01, Num Epochs: 100, Train Loss: 327.89, Train Accuracy: 16.18, Test Loss: 295.51, Test Accuracy: 15.55
 -----------------
-sigmoid Learning Rate: 0.01, Num Epochs: 500, Train Loss: 293.80, Train Accuracy: 14.97, Test Loss: 258.01, Test Accuracy: 14.20
+sigmoid Learning Rate: 0.01, Num Epochs: 500, Train Loss: 288.13, Train Accuracy: 15.14, Test Loss: 249.26, Test Accuracy: 14.22
 -----------------
-sigmoid Learning Rate: 0.01, Num Epochs: 1000, Train Loss: 266.87, Train Accuracy: 14.10, Test Loss: 227.40, Test Accuracy: 13.13
+sigmoid Learning Rate: 0.01, Num Epochs: 1000, Train Loss: 266.23, Train Accuracy: 14.28, Test Loss: 233.77, Test Accuracy: 13.57
 -----------------
-sigmoid Learning Rate: 0.1, Num Epochs: 100, Train Loss: 1092.20, Train Accuracy: 31.83, Test Loss: 1027.94, Test Accuracy: 31.03
+sigmoid Learning Rate: 0.1, Num Epochs: 100, Train Loss: 78.95, Train Accuracy: 7.58, Test Loss: 72.44, Test Accuracy: 7.02
 -----------------
-sigmoid Learning Rate: 0.1, Num Epochs: 500, Train Loss: 67.34, Train Accuracy: 6.50, Test Loss: 50.91, Test Accuracy: 5.62
+sigmoid Learning Rate: 0.1, Num Epochs: 500, Train Loss: 223.86, Train Accuracy: 12.18, Test Loss: 199.37, Test Accuracy: 11.69
 -----------------
-sigmoid Learning Rate: 0.1, Num Epochs: 1000, Train Loss: 91.64, Train Accuracy: 7.29, Test Loss: 76.13, Test Accuracy: 6.83
+sigmoid Learning Rate: 0.1, Num Epochs: 1000, Train Loss: 100.24, Train Accuracy: 8.46, Test Loss: 97.26, Test Accuracy: 8.25
 -----------------
-sigmoid Learning Rate: 0.5, Num Epochs: 100, Train Loss: 6871.34, Train Accuracy: 82.43, Test Loss: 6921.82, Test Accuracy: 82.81
+sigmoid Learning Rate: 0.5, Num Epochs: 100, Train Loss: 371.85, Train Accuracy: 17.81, Test Loss: 384.14, Test Accuracy: 18.45
 -----------------
-sigmoid Learning Rate: 0.5, Num Epochs: 500, Train Loss: 475.44, Train Accuracy: 20.00, Test Loss: 481.28, Test Accuracy: 20.44
+sigmoid Learning Rate: 0.5, Num Epochs: 500, Train Loss: 4582.35, Train Accuracy: 67.33, Test Loss: 4678.69, Test Accuracy: 68.12
 -----------------
-sigmoid Learning Rate: 0.5, Num Epochs: 1000, Train Loss: 1353.07, Train Accuracy: 35.84, Test Loss: 1386.25, Test Accuracy: 36.48
+sigmoid Learning Rate: 0.5, Num Epochs: 1000, Train Loss: 3340.06, Train Accuracy: 56.94, Test Loss: 3433.51, Test Accuracy: 57.88
 -----------------
-Best Mean squared error (MSE):50.91
-Best parameters:{'learning_rate': 0.1, 'num_epochs': 500}
+Best Mean squared error (MSE):72.44
+Best parameters:{'learning_rate': 0.1, 'num_epochs': 100}
 ------------------------------------------------------------------------------------
 
-tanh Learning Rate: 0.001, Num Epochs: 100, Train Loss: 240.16, Train Accuracy: 13.90, Test Loss: 204.23, Test Accuracy: 12.90
+tanh Learning Rate: 0.001, Num Epochs: 100, Train Loss: 405.55, Train Accuracy: 18.72, Test Loss: 360.46, Test Accuracy: 17.77
 -----------------
-tanh Learning Rate: 0.001, Num Epochs: 500, Train Loss: 310.81, Train Accuracy: 16.12, Test Loss: 266.50, Test Accuracy: 15.04
+tanh Learning Rate: 0.001, Num Epochs: 500, Train Loss: 377.07, Train Accuracy: 17.79, Test Loss: 330.48, Test Accuracy: 16.75
 -----------------
-tanh Learning Rate: 0.001, Num Epochs: 1000, Train Loss: 334.74, Train Accuracy: 16.15, Test Loss: 289.01, Test Accuracy: 15.14
+tanh Learning Rate: 0.001, Num Epochs: 1000, Train Loss: 256.82, Train Accuracy: 14.73, Test Loss: 210.40, Test Accuracy: 13.39
 -----------------
-tanh Learning Rate: 0.01, Num Epochs: 100, Train Loss: 260.79, Train Accuracy: 14.95, Test Loss: 241.89, Test Accuracy: 14.61
+tanh Learning Rate: 0.01, Num Epochs: 100, Train Loss: 171.47, Train Accuracy: 11.46, Test Loss: 131.87, Test Accuracy: 9.98
 -----------------
-tanh Learning Rate: 0.01, Num Epochs: 500, Train Loss: 233.09, Train Accuracy: 13.81, Test Loss: 217.86, Test Accuracy: 13.61
+tanh Learning Rate: 0.01, Num Epochs: 500, Train Loss: 245.25, Train Accuracy: 13.77, Test Loss: 205.80, Test Accuracy: 12.72
 -----------------
-tanh Learning Rate: 0.01, Num Epochs: 1000, Train Loss: 57.41, Train Accuracy: 6.29, Test Loss: 42.84, Test Accuracy: 5.40
+tanh Learning Rate: 0.01, Num Epochs: 1000, Train Loss: 225.04, Train Accuracy: 12.50, Test Loss: 204.82, Test Accuracy: 12.21
 -----------------
-tanh Learning Rate: 0.1, Num Epochs: 100, Train Loss: 552.30, Train Accuracy: 21.51, Test Loss: 551.32, Test Accuracy: 21.83
+tanh Learning Rate: 0.1, Num Epochs: 100, Train Loss: 1934.96, Train Accuracy: 43.34, Test Loss: 1998.67, Test Accuracy: 44.23
 -----------------
-tanh Learning Rate: 0.1, Num Epochs: 500, Train Loss: 1315.91, Train Accuracy: 35.22, Test Loss: 1331.82, Test Accuracy: 35.66
+tanh Learning Rate: 0.1, Num Epochs: 500, Train Loss: 1234.04, Train Accuracy: 34.29, Test Loss: 1189.48, Test Accuracy: 33.82
 -----------------
-tanh Learning Rate: 0.1, Num Epochs: 1000, Train Loss: 560.93, Train Accuracy: 22.92, Test Loss: 588.06, Test Accuracy: 23.68
+tanh Learning Rate: 0.1, Num Epochs: 1000, Train Loss: 492.21, Train Accuracy: 19.70, Test Loss: 517.66, Test Accuracy: 20.76
 -----------------
-tanh Learning Rate: 0.5, Num Epochs: 100, Train Loss: 38.89, Train Accuracy: 4.72, Test Loss: 30.83, Test Accuracy: 4.11
+tanh Learning Rate: 0.5, Num Epochs: 100, Train Loss: 1157.35, Train Accuracy: 33.50, Test Loss: 1130.73, Test Accuracy: 33.19
 -----------------
-tanh Learning Rate: 0.5, Num Epochs: 500, Train Loss: 2398.75, Train Accuracy: 48.54, Test Loss: 2477.03, Test Accuracy: 49.43
+tanh Learning Rate: 0.5, Num Epochs: 500, Train Loss: 537.87, Train Accuracy: 21.62, Test Loss: 594.90, Test Accuracy: 23.25
 -----------------
-tanh Learning Rate: 0.5, Num Epochs: 1000, Train Loss: 4365.73, Train Accuracy: 65.86, Test Loss: 4419.20, Test Accuracy: 66.31
+tanh Learning Rate: 0.5, Num Epochs: 1000, Train Loss: 3807.48, Train Accuracy: 61.27, Test Loss: 3826.31, Test Accuracy: 61.48
 -----------------
-Best Mean squared error (MSE):30.83
-Best parameters:{'learning_rate': 0.5, 'num_epochs': 100}
+Best Mean squared error (MSE):131.87
+Best parameters:{'learning_rate': 0.01, 'num_epochs': 100}
 ------------------------------------------------------------------------------------
 
-relu Learning Rate: 0.001, Num Epochs: 100, Train Loss: 14.64, Train Accuracy: 2.87, Test Loss: 15.05, Test Accuracy: 2.92
+relu Learning Rate: 0.001, Num Epochs: 100, Train Loss: 2171.03, Train Accuracy: 45.45, Test Loss: 1962.33, Test Accuracy: 43.29
 -----------------
-relu Learning Rate: 0.001, Num Epochs: 500, Train Loss: 10.91, Train Accuracy: 2.50, Test Loss: 11.96, Test Accuracy: 2.68
+relu Learning Rate: 0.001, Num Epochs: 500, Train Loss: 10.44, Train Accuracy: 2.39, Test Loss: 11.27, Test Accuracy: 2.49
 -----------------
-relu Learning Rate: 0.001, Num Epochs: 1000, Train Loss: 8.20, Train Accuracy: 2.09, Test Loss: 7.79, Test Accuracy: 2.00
+relu Learning Rate: 0.001, Num Epochs: 1000, Train Loss: 9.32, Train Accuracy: 2.24, Test Loss: 8.59, Test Accuracy: 2.19
 -----------------
-relu Learning Rate: 0.01, Num Epochs: 100, Train Loss: 1152.73, Train Accuracy: 33.30, Test Loss: 1093.08, Test Accuracy: 32.57
+relu Learning Rate: 0.01, Num Epochs: 100, Train Loss: 1703.29, Train Accuracy: 40.73, Test Loss: 1563.15, Test Accuracy: 39.07
 -----------------
-relu Learning Rate: 0.01, Num Epochs: 500, Train Loss: 2195.09, Train Accuracy: 46.10, Test Loss: 2048.37, Test Accuracy: 44.60
+relu Learning Rate: 0.01, Num Epochs: 500, Train Loss: 1558.97, Train Accuracy: 39.12, Test Loss: 1494.41, Test Accuracy: 38.36
 -----------------
-relu Learning Rate: 0.01, Num Epochs: 1000, Train Loss: 4012.76, Train Accuracy: 62.81, Test Loss: 3862.19, Test Accuracy: 61.45
+relu Learning Rate: 0.01, Num Epochs: 1000, Train Loss: 1067.71, Train Accuracy: 32.34, Test Loss: 1008.95, Test Accuracy: 31.42
 -----------------
-relu Learning Rate: 0.1, Num Epochs: 100, Train Loss: 803974959.19, Train Accuracy: 28048.34, Test Loss: 781971567.05, Test Accuracy: 27617.49
+relu Learning Rate: 0.1, Num Epochs: 100, Train Loss: 1128866043.57, Train Accuracy: 33176.41, Test Loss: 1093230685.88, Test Accuracy: 32585.74
 -----------------
-relu Learning Rate: 0.1, Num Epochs: 500, Train Loss: 28455.60, Train Accuracy: 168.50, Test Loss: 28187.53, Test Accuracy: 167.74
+relu Learning Rate: 0.1, Num Epochs: 500, Train Loss: 1255.19, Train Accuracy: 34.97, Test Loss: 1233.98, Test Accuracy: 34.80
 -----------------
-relu Learning Rate: 0.1, Num Epochs: 1000, Train Loss: 74407.42, Train Accuracy: 272.68, Test Loss: 74012.58, Test Accuracy: 271.97
+relu Learning Rate: 0.1, Num Epochs: 1000, Train Loss: 172505.69, Train Accuracy: 414.32, Test Loss: 170990.53, Test Accuracy: 412.35
 -----------------
-relu Learning Rate: 0.5, Num Epochs: 100, Train Loss: 1131.45, Train Accuracy: 32.06, Test Loss: 1098.13, Test Accuracy: 31.77
+relu Learning Rate: 0.5, Num Epochs: 100, Train Loss: 1245.39, Train Accuracy: 34.14, Test Loss: 1136.56, Test Accuracy: 32.75
 -----------------
-relu Learning Rate: 0.5, Num Epochs: 500, Train Loss: 215286583.33, Train Accuracy: 14671.94, Test Loss: 215071770.56, Test Accuracy: 14664.56
+relu Learning Rate: 0.5, Num Epochs: 500, Train Loss: 463767997182.06, Train Accuracy: 671822.22, Test Loss: 447279386655.39, Test Accuracy: 658328.53
 -----------------
-relu Learning Rate: 0.5, Num Epochs: 1000, Train Loss: 2303384107.98, Train Accuracy: 46979.58, Test Loss: 2266025224.93, Test Accuracy: 46500.46
+relu Learning Rate: 0.5, Num Epochs: 1000, Train Loss: 64850756.53, Train Accuracy: 8052.95, Test Loss: 64874332.75, Test Accuracy: 8054.41
 -----------------
-Best Mean squared error (MSE):7.79
+Best Mean squared error (MSE):8.59
 Best parameters:{'learning_rate': 0.001, 'num_epochs': 1000}
 ------------------------------------------------------------------------------------
 
-Execution time: 63.01 seconds
-Current date and time: 2023-07-04 11:47:25.968479-05:00
+Execution time: 42.84 seconds
+Current date and time: 2023-07-05 19:13:39.434763-05:00

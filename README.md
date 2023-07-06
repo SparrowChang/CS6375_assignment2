@@ -12,10 +12,6 @@ In a ZIP archive. Here are the files and their descriptions:
         - path_to_log_file.txt: This file contains the best hyperparameters and corresponding MSE for each activation function.
         - relu.png, sigmoid.png, tanh.png: These files are plots of the training and test MSE for each activation function, using the best learning rate found.
 
-2. CS6375 Assignment2_230704_final.pdf: This file is a report presenting the results in a tabular format. The table includes columns for the parameters used, as well as the train and test MSE for different combinations of parameters. The report also includes conclusions based on the results.
-
-
-
-
+2. CS6375 Assignment2_230705_final.pdf: This file is a report presenting the results in a tabular format. The table includes columns for the parameters used, as well as the train and test MSE for different combinations of parameters. The report also includes conclusions based on the results.
 
 
